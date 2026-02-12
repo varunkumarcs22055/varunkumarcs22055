@@ -74,7 +74,7 @@ Dual-stream deep learning pipeline for real-time video forgery detection, valida
 
 `Python` `TensorFlow` `PyTorch` `ResNet50` `LSTM` `OpenCV` `Streamlit`
 
-<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/varunkumarcs22055/Deepfake-Detection"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +88,7 @@ ML-powered crop recommendation engine analyzing **7 soil parameters** to suggest
 
 `Python` `React.js` `Flask` `Scikit-Learn` `Random Forest`
 
-<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/varunkumarcs22055/Crop-Prediction"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ Enterprise-grade face authentication with **6-algorithm feature fusion** (LBP, H
 
 `Python` `OpenCV` `Django` `MediaPipe` `dlib`
 
-<a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/varunkumarcs22055/Recognition-System"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -165,6 +165,7 @@ Currently exploring **Generative AI**, **LLMs**, and advanced computer vision ar
 </table>
 
 ---
+
 
 ## 📊 GitHub Analytics
 
