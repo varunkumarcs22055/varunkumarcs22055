@@ -166,20 +166,6 @@ Currently exploring **Generative AI**, **LLMs**, and advanced computer vision ar
 
 ---
 
-## 🏆 Achievements
-
-<table>
-<tr><td>🥇</td><td><b>National Winner (Top 15)</b></td><td>SBI Youth Ideathon @ IIT Delhi</td><td><code>2025</code></td></tr>
-<tr><td>🏅</td><td><b>Top 100 India</b></td><td>Samsung Solve for Tomorrow</td><td><code>2025</code></td></tr>
-<tr><td>🏅</td><td><b>National Innovation Finalist</b></td><td>Azim Premji University</td><td><code>2024</code></td></tr>
-<tr><td>🏅</td><td><b>Top 20 Finalist</b></td><td>Beyond Profits @ BITS Pilani</td><td><code>2024</code></td></tr>
-<tr><td>🥈</td><td><b>2nd Place (300+ teams)</b></td><td>Hack Wack 2.0</td><td><code>2024</code></td></tr>
-<tr><td>🏅</td><td><b>Winner</b></td><td>HackAIthon — Azure Dev Community</td><td><code>2024</code></td></tr>
-<tr><td>☁️</td><td><b>Google Cloud Champion</b></td><td>Google Cloud</td><td><code>2024-25</code></td></tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
